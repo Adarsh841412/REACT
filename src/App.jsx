@@ -2,12 +2,12 @@
 import './App.css'
 import Ludo from './ludo'
 import Todo from './Todo';
+import Lottery from './lottery';
 function App() {
  
   return (
 <>
-    <h1 >TODO APP </h1>
-<Todo/>
+<Lottery/>
 </>
   )
 }
